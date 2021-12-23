@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okitta
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning c++, python, HTML, CSS, Java Script
 - 💞️ I’m looking to collaborate on simple coding projects with anyone
 - 📫 How to reach me okitta9388@gmail.com
 - Hi ther,
